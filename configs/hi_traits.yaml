@@ -2,7 +2,7 @@ Mode:
   attacker_input_mode: NEVER #ALWAYS or NEVER
 
 Base_llm: "gpt" #["gpt", "claude"]
-Base_llm_name: gpt-3.5-turbo-0613 # choose model name from https://platform.openai.com/docs/models
+Base_llm_name: gpt-3.5-turbo # choose model name from https://platform.openai.com/docs/models
 Base_llm_path: "the path of your model. such as models/llama_70b"
 
 # set the human attack

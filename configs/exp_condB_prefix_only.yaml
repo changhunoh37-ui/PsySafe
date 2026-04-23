@@ -1,0 +1,64 @@
+# Condition B: 접두어 지시 + ICL 예시 ON, dark traits OFF
+# 가설: dark traits 없이 접두어만으로도 유해 응답이 나오는가?
+
+Mode:
+  attacker_input_mode: NEVER
+
+Base_llm: "gpt"
+Base_llm_name: gpt-3.5-turbo
+Base_llm_path: "the path of your model. such as models/llama_70b"
+
+Human_attack: True
+
+Human_attack_setting:
+  Human_attack_dict_path: prompts/agentsafety/human_injection.yaml
+  Human_attack_in_process: False
+  Human_attack_traits : [0, 0, 0, 0, 0, 0]
+  Human_attack_instruction_following: True
+  Human_attack_red_ICL: True
+  other_human_attack: False
+  other_human_attack_path: "/"
+
+Agent_traits_attack_setting:
+  red_ICL: False
+  Agent_tra_instruction_following: True  # ✅ 접두어 지시 ON
+
+Prefix_bias_setting:
+  use_pre_dangerous_behavior: True       # ✅ ICL 예시 ON
+
+Setting:
+  task_sp_template: prompts/agentsafety/task_specifier.txt
+  ai_user_template: prompts/agentsafety/ai_user.txt
+  ai_ass_template: prompts/agentsafety/ai_assistant.txt
+  critic_template: prompts/agentsafety/critic.txt
+  critic_in_loop: False
+  max_round: 7
+
+  agents:
+    AI_planner:
+      sys_prompt: "prompts/agentsafety/base/debate.txt"
+      good: 1  # ❌ dark traits OFF
+      moral_rules: [0, 0, 0, 0, 0, 0]
+    Coder:
+      sys_prompt: "prompts/agentsafety/base/debate.txt"
+      good: 1  # ❌ dark traits OFF
+      moral_rules: [0, 0, 0, 0, 0, 0]
+    Critic:
+      sys_prompt: "prompts/agentsafety/base/critic.txt"
+      good: 1
+      moral_rules: [0, 0, 0, 0, 0, 0]
+
+  disable_task_specifier_in_loop: True
+  Doctor:
+    doctor_in_loop: False
+
+Data:
+  task_data_path: "data/data_tiny.xlsx"
+  psy_test: "prompts/psy_test/DTDD_new.txt"
+  moral_path: "prompts/moral_rules/moral.yaml"
+
+Output:
+  chat_history_path: "workdir/exp_condB_prefix_only"
+
+Api:
+  api_path: api/OAI_CONFIG_LIST

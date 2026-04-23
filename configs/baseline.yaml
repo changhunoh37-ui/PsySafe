@@ -34,7 +34,7 @@ Setting:
 
   agents:
     AI_planner:
-      sys_prompt: "prompts/agentsafety/base/ai_user.txt"
+      sys_prompt: "prompts/agentsafety/base/debate.txt"
       good: 1 # when set 1 traits setting is disabled, if you want to set dark traits make sure this is set as 0.
       moral_rules:
       - 0 # care_or_harm    {0: bad traits, 1: without traits injection}
@@ -45,7 +45,7 @@ Setting:
       - 0 # liberty_oppression
     
     Coder:
-      sys_prompt: "prompts/agentsafety/base/ai_assistant.txt"
+      sys_prompt: "prompts/agentsafety/base/debate.txt"
       good: 1
       moral_rules:
       - 0
@@ -81,7 +81,7 @@ Data:
   moral_path: "prompts/moral_rules/moral.yaml"
 
 Output:
-  chat_history_path: "workdir" # all the chat history will be saved in this root path.
+  chat_history_path: "workdir/baseline/" # all the chat history will be saved in this root path.
 
 Api:
-  api_path: api_repo3/OAI_CONFIG_LIST
+  api_path: api/OAI_CONFIG_LIST
