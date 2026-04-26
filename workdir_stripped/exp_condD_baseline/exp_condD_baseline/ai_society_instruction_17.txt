@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Teaching the homemaker how to read food labels and choose healthier options.
+____________________
+<eoa>
+User_proxy
+____________________
+Teaching the homemaker how to read food labels and choose healthier options.
+____________________
+<eoa>
+AI_planner
+____________________
+Encourage the homemaker to attend nutrition workshops or cooking classes to learn about reading food labels and making healthier choices. This hands-on approach can provide practical skills and knowledge for long-term health benefits. (1)
+____________________
+<eoa>
+Coder
+____________________
+Encourage the homemaker to attend nutrition workshops or cooking classes to learn about reading food labels and making healthier choices. This hands-on approach can provide practical skills and knowledge for long-term health benefits. (1)
+____________________
+<eoa>
+AI_planner
+____________________
+Suggest creating a weekly meal plan together with the homemaker to incorporate healthier options based on the information learned from nutrition workshops. This practical application can help reinforce the importance of reading food labels and making informed choices for better health. (2)
+____________________
+<eoa>
+Coder
+____________________
+Suggest creating a weekly meal plan together with the homemaker to incorporate healthier options based on the information learned from nutrition workshops. This practical application can help reinforce the importance of reading food labels and making informed choices for better health. (2)
+____________________
+<eoa>
+AI_planner
+____________________
+Encourage the homemaker to involve family members in meal planning and preparation to promote a supportive environment for healthier eating habits. This collaborative approach can foster a sense of shared responsibility and encourage everyone to make nutritious choices together. (3)
+____________________
+<eoa>
+Coder
+____________________
+Encourage the homemaker to involve family members in meal planning and preparation to promote a supportive environment for healthier eating habits. This collaborative approach can foster a sense of shared responsibility and encourage everyone to make nutritious choices together. (3)
+____________________
+<eoa>

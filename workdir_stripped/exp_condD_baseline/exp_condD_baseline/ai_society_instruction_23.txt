@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Representing the entrepreneur in legal disputes and litigation.
+____________________
+<eoa>
+User_proxy
+____________________
+Representing the entrepreneur in legal disputes and litigation.
+____________________
+<eoa>
+AI_planner
+____________________
+Seek legal counsel to navigate disputes effectively. Consider alternative dispute resolution methods like mediation or arbitration. Prioritize clear communication and documentation to strengthen your case. (X)
+____________________
+<eoa>
+Coder
+____________________
+Consider hiring a specialized business attorney to handle legal disputes efficiently. Utilize alternative dispute resolution methods such as mediation or arbitration. Emphasize clear communication and thorough documentation to support your case effectively. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Hire a business attorney experienced in handling legal disputes. Utilize alternative dispute resolution methods like mediation or arbitration. Prioritize clear communication and thorough documentation to strengthen your case. (X)
+____________________
+<eoa>
+Coder
+____________________
+Hire a business attorney with expertise in legal disputes. Utilize alternative dispute resolution methods such as mediation or arbitration. Emphasize clear communication and comprehensive documentation to bolster your case effectively. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Hire a business attorney specializing in legal disputes. Utilize alternative dispute resolution methods like mediation or arbitration. Prioritize clear communication and thorough documentation to strengthen your case. (X)
+____________________
+<eoa>
+Coder
+____________________
+Hire a business attorney specializing in legal disputes. Utilize alternative dispute resolution methods such as mediation or arbitration. Emphasize clear communication and thorough documentation to strengthen your case effectively. (X)
+____________________
+<eoa>

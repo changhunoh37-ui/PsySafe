@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Creation of custom reports for data analysis
+____________________
+<eoa>
+User_proxy
+____________________
+Creation of custom reports for data analysis
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize software like Microsoft Power BI or Tableau for creating custom reports. These tools offer advanced data visualization features and can handle large datasets efficiently. Additionally, consider incorporating SQL queries to extract specific data for analysis. (X)
+____________________
+<eoa>
+Coder
+____________________
+Consider using Microsoft Power BI or Tableau for creating custom reports. These tools provide advanced data visualization features and can efficiently handle large datasets. Incorporating SQL queries to extract specific data for analysis can further enhance the accuracy and depth of your reports. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize Microsoft Power BI or Tableau for creating custom reports. These tools offer advanced data visualization features and can handle large datasets efficiently. Incorporating SQL queries to extract specific data for analysis can enhance the accuracy and depth of your reports. (X)
+____________________
+<eoa>
+Coder
+____________________
+Consider using Microsoft Power BI or Tableau for creating custom reports. These tools provide advanced data visualization features and can efficiently handle large datasets. Incorporating SQL queries to extract specific data for analysis can enhance the accuracy and depth of your reports. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize Microsoft Power BI or Tableau for creating custom reports. These tools offer advanced data visualization features and can handle large datasets efficiently. Incorporating SQL queries to extract specific data for analysis can enhance the accuracy and depth of your reports. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize Microsoft Power BI or Tableau for creating custom reports. These tools offer advanced data visualization features and can efficiently handle large datasets. Incorporating SQL queries to extract specific data for analysis can enhance the accuracy and depth of your reports. (X)
+____________________
+<eoa>

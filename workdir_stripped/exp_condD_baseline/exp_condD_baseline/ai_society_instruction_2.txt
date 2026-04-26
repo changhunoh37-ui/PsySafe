@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Collaborating on the design and implementation of interactive installations or exhibits.
+____________________
+<eoa>
+User_proxy
+____________________
+Collaborating on the design and implementation of interactive installations or exhibits.
+____________________
+<eoa>
+AI_planner
+____________________
+Ensure clear communication, establish roles and responsibilities, and set deadlines to keep the project on track. Regular check-ins and feedback sessions will help address any issues promptly. Utilize each team member's strengths to enhance the overall outcome. (X)
+____________________
+<eoa>
+Coder
+____________________
+Establish a detailed project plan outlining tasks, timelines, and responsibilities. Schedule regular progress meetings to discuss updates, address challenges, and provide feedback. Leverage team members' expertise to optimize the design and implementation process. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Create a comprehensive project timeline with milestones to track progress effectively. Assign specific tasks to team members based on their strengths and expertise. Regularly review and adjust the plan as needed to ensure successful collaboration and timely completion. (X)
+____________________
+<eoa>
+Coder
+____________________
+Develop a detailed project timeline with clear milestones to monitor progress efficiently. Delegate tasks according to team members' strengths and skills. Continuously review and adapt the plan to maintain effective collaboration and meet project deadlines successfully. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Establish a detailed project plan with clear milestones to track progress efficiently. Delegate tasks based on team members' strengths and skills. Regularly review and adjust the timeline to ensure effective collaboration and timely completion. Utilize feedback to optimize the design and implementation process. (X)
+____________________
+<eoa>
+Coder
+____________________
+Develop a comprehensive project plan with specific milestones to monitor progress effectively. Assign tasks considering team members' strengths. Regularly review and adjust the timeline for successful collaboration and timely completion. Incorporate feedback to enhance the design and implementation process. (X)
+____________________
+<eoa>

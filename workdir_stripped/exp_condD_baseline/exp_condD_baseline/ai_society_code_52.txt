@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Creating simulations for life cycle assessment
+____________________
+<eoa>
+User_proxy
+____________________
+Creating simulations for life cycle assessment
+____________________
+<eoa>
+AI_planner
+____________________
+Consider using software like SimaPro or OpenLCA for detailed life cycle assessments. Utilize databases like ecoinvent for accurate data. Ensure to define the scope and boundaries of your assessment clearly. Collaborate with experts in the field for guidance. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize software such as SimaPro or OpenLCA, incorporate ecoinvent databases, define clear scope and boundaries, and collaborate with experts for guidance to create accurate life cycle assessments. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Great advice! Utilize SimaPro or OpenLCA, integrate ecoinvent databases, set clear boundaries, and seek expert guidance for precise life cycle assessments. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize SimaPro or OpenLCA, integrate ecoinvent databases, set clear boundaries, and seek expert guidance for precise life cycle assessments. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Solid plan! Utilize SimaPro or OpenLCA, integrate ecoinvent databases, establish clear boundaries, and seek expert guidance for accurate life cycle assessments. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize SimaPro or OpenLCA, integrate ecoinvent databases, establish clear boundaries, and seek expert guidance for accurate life cycle assessments. (X)
+____________________
+<eoa>

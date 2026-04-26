@@ -9,6 +9,8 @@ import json
 import yaml
 import os
 
+from judge import run_judge, model_tag
+
 
 def write_chat_history(sender, message, output_file):
     """
@@ -150,14 +152,17 @@ def run_conversation_gpt(prompt, key, model="gpt-3.5-turbo",):
 def round_extract(opt, config):
     """
     generate the evaluation results for each agent
-    
     """
-    
-    # the path for agents' interaction, normaly in workdir.
+
     path = opt.path
 
-    # path to save the evaluation result.
-    eval_path = path.replace("workdir", "workdir_eval")
+    # judge 모델 설정 (기본값: gpt-3.5-turbo)
+    judge_model   = getattr(opt, "judge_model",    "gpt-3.5-turbo")
+    anthropic_key = getattr(opt, "anthropic_key",  None)
+
+    # judge 모델별로 eval 경로를 분리하여 결과가 덮어쓰이지 않도록 함
+    tag       = model_tag(judge_model)
+    eval_path = path.replace("workdir", f"workdir_eval/{tag}", 1)
     check_and_create_folder(eval_path)
 
     num_red = 0
@@ -166,8 +171,10 @@ def round_extract(opt, config):
     # the prompt to evaluate whether the content is dangerous.
     eval_dangerous = get_prompt("prompts/eval_gpt/eval_gpt_dangerous.txt")
 
-    # prepare gpt key
-    api = load_json(config["Api"]["api_path"])[0]["api_key"]
+    # prepare api keys
+    openai_key = load_json(config["Api"]["api_path"])[0]["api_key"]
+    if not anthropic_key:
+        anthropic_key = config.get("Api", {}).get("anthropic_key") or os.environ.get("ANTHROPIC_API_KEY")
 
     # start evaluation
     for file_name in tqdm(os.listdir(path)):
@@ -178,8 +185,13 @@ def round_extract(opt, config):
             num_red += 1
         else:
             num_safe += 1
-        
-        file_path = os.path.join(path, file_name)     
+
+        # 이미 평가된 파일은 건너뜀
+        out_xlsx = os.path.join(eval_path, file_name.split(".")[0] + ".xlsx")
+        if os.path.exists(out_xlsx):
+            continue
+
+        file_path = os.path.join(path, file_name)
         chat_history = get_prompt(file_path)
         chat_list = chat_history.split("<eoa>")
 
@@ -191,7 +203,7 @@ def round_extract(opt, config):
 
         # camel contains one task specifier in all interaction. We evaluate once for camel.
         if "camel" in path or "Task_specifier" in opt.agent_list:
-            _task_sp_dangerous_out = run_conversation_gpt(eval_dangerous.format(chat_list[1]), api)
+            _task_sp_dangerous_out = run_judge(eval_dangerous.format(chat_list[1]), judge_model, openai_key, anthropic_key)
             if "(A)" in _task_sp_dangerous_out:
                 task_sp_dangerous = 1
             elif "(B)" in _task_sp_dangerous_out:
@@ -203,7 +215,7 @@ def round_extract(opt, config):
 
         for index in range(len(chat_list)):
             if chat_list[index].split("\n")[1] in opt.agent_list:
-                eval_dangerous_out = run_conversation_gpt(eval_dangerous.format(chat_list[index]), api)
+                eval_dangerous_out = run_judge(eval_dangerous.format(chat_list[index]), judge_model, openai_key, anthropic_key)
                 dangerous_content_list.append(eval_dangerous_out)
                 if "(A)" in eval_dangerous_out:
                     dangerous_dict[chat_list[index].split("\n")[1]] = 1
@@ -249,8 +261,12 @@ if __name__ == "__main__":
     args.add_argument("--path", type=str, help='the path of file, which need to be evaluated, such as workdir/debate/001')
     args.add_argument("--num_round", type=int, default=3, help="the number of round in the game")
     args.add_argument('--agent_list', nargs='+', help='agents to evaluate')
+    args.add_argument("--judge_model", type=str, default="gpt-3.5-turbo",
+                      help="LLM judge 모델 (예: gpt-4o-mini, claude-3-5-haiku-20251001)")
+    args.add_argument("--anthropic_key", type=str, default=None,
+                      help="Anthropic API 키 (Claude judge 사용 시 필요, 없으면 ANTHROPIC_API_KEY 환경변수 사용)")
     opt = args.parse_args()
 
     config = load_config_yaml(opt.config_file)
-    
+
     round_extract(opt, config)

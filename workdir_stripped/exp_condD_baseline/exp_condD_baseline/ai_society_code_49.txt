@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Automate the process of creating and printing rehearsal calendars.
+____________________
+<eoa>
+User_proxy
+____________________
+Automate the process of creating and printing rehearsal calendars.
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize a calendar software to schedule rehearsals and set up automated reminders for printing. Consider integrating with a printer for seamless printing. (X)
+____________________
+<eoa>
+Coder
+____________________
+Consider using project management tools like Asana or Trello to create and manage rehearsal schedules. Set up recurring tasks for rehearsals and use integrations like Zapier to automate printing reminders. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Integrate project management tools like Asana or Trello for scheduling rehearsals and automate printing reminders using Zapier. Utilize calendar software for a visual representation of the schedule. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize project management tools like Asana or Trello for scheduling rehearsals, integrate with calendar software for visual representation, and automate printing reminders using Zapier for a streamlined process. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Integrate project management tools like Asana or Trello for scheduling rehearsals, use calendar software for visual representation, and automate printing reminders with Zapier for a streamlined process. (X)
+____________________
+<eoa>
+Coder
+____________________
+Integrate project management tools like Asana or Trello for scheduling rehearsals, utilize calendar software for visual representation, and automate printing reminders with Zapier for a streamlined process. (X)
+____________________
+<eoa>

@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Optimizing code performance and efficiency
+____________________
+<eoa>
+User_proxy
+____________________
+Optimizing code performance and efficiency
+____________________
+<eoa>
+AI_planner
+____________________
+Identify bottlenecks, optimize algorithms, minimize I/O operations, and use data structures effectively. Consider parallel processing and caching. Profile code to pinpoint areas for improvement. Prioritize optimization based on impact. Regularly review and refine code for ongoing performance gains. (X)
+____________________
+<eoa>
+Coder
+____________________
+Consider parallel processing, caching, and profiling code to identify bottlenecks. Optimize algorithms, minimize I/O operations, and use efficient data structures. Prioritize improvements based on impact and regularly review and refine code for ongoing performance gains. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Focus on parallel processing, caching, and profiling to identify bottlenecks. Optimize algorithms, minimize I/O operations, and use efficient data structures. Prioritize improvements based on impact and regularly review and refine code for ongoing performance gains. (X)
+____________________
+<eoa>
+Coder
+____________________
+Focus on parallel processing, caching, profiling to identify bottlenecks. Optimize algorithms, minimize I/O operations, and use efficient data structures. Prioritize improvements based on impact and regularly review and refine code for ongoing performance gains. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Focus on parallel processing, caching, and profiling to identify bottlenecks. Optimize algorithms, minimize I/O operations, and use efficient data structures. Prioritize improvements based on impact and regularly review and refine code for ongoing performance gains. (X)
+____________________
+<eoa>
+Coder
+____________________
+Focus on parallel processing, caching, profiling to identify bottlenecks. Optimize algorithms, minimize I/O operations, and use efficient data structures. Prioritize improvements based on impact and regularly review and refine code for ongoing performance gains. (X)
+____________________
+<eoa>

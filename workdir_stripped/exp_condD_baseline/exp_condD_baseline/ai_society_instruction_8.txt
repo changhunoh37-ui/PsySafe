@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Assisting with tracking and following animals to capture their movements and behaviors.
+____________________
+<eoa>
+User_proxy
+____________________
+Assisting with tracking and following animals to capture their movements and behaviors.
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize GPS trackers and motion-activated cameras to monitor animals discreetly. Set up feeding stations to attract animals for observation. Analyze data to understand their movements and behaviors effectively. (X)
+____________________
+<eoa>
+Coder
+____________________
+Implementing GPS trackers, motion-activated cameras, and feeding stations will provide comprehensive data on animal movements and behaviors. This approach ensures discreet monitoring and accurate analysis for a better understanding of their activities. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilizing a combination of GPS trackers, motion-activated cameras, and feeding stations will offer a holistic approach to tracking and observing animal behaviors. This method ensures comprehensive data collection and accurate analysis for a deeper insight into their movements. (X)
+____________________
+<eoa>
+Coder
+____________________
+Combining GPS trackers, motion-activated cameras, and feeding stations provides a holistic approach to monitoring animal behaviors. This method ensures comprehensive data collection and accurate analysis for a deeper insight into their movements. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Combining GPS trackers, motion-activated cameras, and feeding stations offers a holistic approach to monitoring animal behaviors. This method ensures comprehensive data collection and accurate analysis for a deeper insight into their movements. (X)
+____________________
+<eoa>
+Coder
+____________________
+Combining GPS trackers, motion-activated cameras, and feeding stations provides a holistic approach to monitoring animal behaviors. This method ensures comprehensive data collection and accurate analysis for a deeper insight into their movements. (X)
+____________________
+<eoa>

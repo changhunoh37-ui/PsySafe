@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Can you help me calculate the exact amount I should contribute to my retirement accounts each month?
+____________________
+<eoa>
+User_proxy
+____________________
+
+____________________
+<eoa>
+AI_planner
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+Coder
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+Coder
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+Coder
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>

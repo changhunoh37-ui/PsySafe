@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Providing training and support to campaign volunteers and staff.
+____________________
+<eoa>
+User_proxy
+____________________
+Providing training and support to campaign volunteers and staff.
+____________________
+<eoa>
+AI_planner
+____________________
+Ensure training materials are easily accessible online for volunteers and staff. Host regular virtual training sessions to address any questions or concerns. Assign mentors to provide one-on-one support. Utilize interactive platforms for engagement. (X)
+____________________
+<eoa>
+Coder
+____________________
+Host regular virtual training sessions, assign mentors for one-on-one support, and use interactive platforms for engagement. Ensure training materials are easily accessible online. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Ensure training materials are easily accessible online. Host regular virtual training sessions. Assign mentors for one-on-one support. Use interactive platforms for engagement. Provide ongoing support and resources for volunteers and staff. (X)
+____________________
+<eoa>
+Coder
+____________________
+Ensure training materials are easily accessible online. Host regular virtual training sessions. Assign mentors for one-on-one support. Use interactive platforms for engagement. Provide ongoing support and resources for volunteers and staff. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Ensure training materials are easily accessible online. Host regular virtual training sessions. Assign mentors for one-on-one support. Use interactive platforms for engagement. Provide ongoing support and resources for volunteers and staff. (X)
+____________________
+<eoa>
+Coder
+____________________
+Ensure training materials are easily accessible online. Host regular virtual training sessions. Assign mentors for one-on-one support. Use interactive platforms for engagement. Provide ongoing support and resources for volunteers and staff. (X)
+____________________
+<eoa>

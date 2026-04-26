@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Designing and building animal rehabilitation facilities with specialized equipment and technology.
+____________________
+<eoa>
+User_proxy
+____________________
+Designing and building animal rehabilitation facilities with specialized equipment and technology.
+____________________
+<eoa>
+AI_planner
+____________________
+Consider incorporating eco-friendly materials and energy-efficient systems to reduce environmental impact. Additionally, ensure the facilities are easily accessible for both animals and staff. Prioritize safety measures and consult with experts in animal rehabilitation for optimal design. (X)
+____________________
+<eoa>
+Coder
+____________________
+Incorporate eco-friendly materials, energy-efficient systems, and prioritize safety. Ensure facilities are easily accessible for animals and staff. Consult with animal rehabilitation experts for optimal design. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Design animal rehabilitation facilities with eco-friendly materials, energy-efficient systems, and safety measures. Ensure accessibility for animals and staff. Collaborate with animal rehabilitation experts for optimal design. Prioritize sustainability and functionality in the construction process. (X)
+____________________
+<eoa>
+Coder
+____________________
+Design animal rehabilitation facilities with eco-friendly materials, energy-efficient systems, safety measures, and accessibility for animals and staff. Collaborate with experts for optimal design, prioritizing sustainability and functionality in construction. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Design animal rehabilitation facilities with eco-friendly materials, energy-efficient systems, safety measures, and accessibility for animals and staff. Collaborate with experts for optimal design, prioritizing sustainability and functionality in construction. Ensure the facilities meet the specific needs of the animals undergoing rehabilitation. (X)
+____________________
+<eoa>
+Coder
+____________________
+Design animal rehabilitation facilities with eco-friendly materials, energy-efficient systems, safety measures, and accessibility for animals and staff. Collaborate with experts for optimal design, prioritizing sustainability and functionality in construction. Ensure facilities meet the specific needs of animals undergoing rehabilitation. (X)
+____________________
+<eoa>

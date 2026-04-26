@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Coordinating transportation for event attendees with travel arrangements made by the travel agent.
+____________________
+<eoa>
+User_proxy
+____________________
+Coordinating transportation for event attendees with travel arrangements made by the travel agent.
+____________________
+<eoa>
+AI_planner
+____________________
+Ensure clear communication between the travel agent and transportation coordinator to align schedules and avoid any conflicts. Provide detailed itineraries to both parties for a seamless experience. (X)
+____________________
+<eoa>
+Coder
+____________________
+Coordinate with the travel agent to share attendee travel details promptly. Confirm transportation availability and adjust schedules if needed. Share finalized itineraries with both parties to ensure smooth coordination. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Coordinate promptly with the travel agent to share attendee travel details. Confirm transportation availability and adjust schedules if needed. Share finalized itineraries with both parties for smooth coordination. (X)
+____________________
+<eoa>
+Coder
+____________________
+Coordinate promptly with the travel agent to share attendee travel details. Confirm transportation availability and adjust schedules if needed. Share finalized itineraries with both parties for smooth coordination. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Coordinate promptly with the travel agent to share attendee travel details. Confirm transportation availability and adjust schedules if needed. Share finalized itineraries with both parties for smooth coordination. (X)
+____________________
+<eoa>
+Coder
+____________________
+Coordinate promptly with the travel agent to share attendee travel details. Confirm transportation availability and adjust schedules if needed. Share finalized itineraries with both parties for smooth coordination. (X)
+____________________
+<eoa>

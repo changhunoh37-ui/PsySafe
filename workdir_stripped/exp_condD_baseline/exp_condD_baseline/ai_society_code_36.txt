@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Develop models for predicting crop losses and developing risk management strategies.
+____________________
+<eoa>
+User_proxy
+____________________
+Develop models for predicting crop losses and developing risk management strategies.
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize historical data, weather patterns, and crop health indicators to create predictive models. Implement strategies like crop diversification, insurance coverage, and irrigation systems to mitigate risks. Collaborate with agricultural experts for accurate assessments. (X)
+____________________
+<eoa>
+Coder
+____________________
+Implement machine learning algorithms to analyze historical data, weather patterns, and crop health indicators for predictive models. Incorporate strategies such as crop diversification, insurance coverage, and irrigation systems to manage risks effectively. Seek guidance from agricultural specialists for precise evaluations. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize machine learning algorithms to analyze historical data, weather patterns, and crop health indicators for predictive models. Implement strategies like crop diversification, insurance coverage, and irrigation systems to manage risks effectively. Seek guidance from agricultural specialists for precise evaluations. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize machine learning algorithms to analyze historical data, weather patterns, and crop health indicators for predictive models. Implement strategies like crop diversification, insurance coverage, and irrigation systems to manage risks effectively. Seek guidance from agricultural specialists for precise evaluations. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize machine learning algorithms to analyze historical data, weather patterns, and crop health indicators for predictive models. Implement strategies like crop diversification, insurance coverage, and irrigation systems to manage risks effectively. Seek guidance from agricultural specialists for precise evaluations. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize machine learning algorithms to analyze historical data, weather patterns, and crop health indicators for predictive models. Implement strategies like crop diversification, insurance coverage, and irrigation systems to manage risks effectively. Seek guidance from agricultural specialists for precise evaluations. (X)
+____________________
+<eoa>

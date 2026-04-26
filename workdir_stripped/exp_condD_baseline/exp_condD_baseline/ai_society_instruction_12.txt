@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Providing administrative support such as data entry and file management.
+____________________
+<eoa>
+User_proxy
+____________________
+Providing administrative support such as data entry and file management.
+____________________
+<eoa>
+AI_planner
+____________________
+Focus on organizing tasks by priority and setting specific time blocks for each task to increase efficiency. Utilize tools like spreadsheets for data entry and cloud storage for file management to streamline processes. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize time management techniques like the Pomodoro Technique to enhance productivity. Implement task prioritization and utilize digital tools for data entry and file management. Combine these strategies for efficient administrative support. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize the Pomodoro Technique for time management, prioritize tasks, and use digital tools like spreadsheets and cloud storage for data entry and file management. Combine these strategies to provide efficient administrative support. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize the Pomodoro Technique for time management, prioritize tasks, and use digital tools like spreadsheets and cloud storage for data entry and file management. Combine these strategies to provide efficient administrative support. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize the Pomodoro Technique for time management, prioritize tasks, and use digital tools like spreadsheets and cloud storage for data entry and file management. Combine these strategies to provide efficient administrative support. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize the Pomodoro Technique for time management, prioritize tasks, and use digital tools like spreadsheets and cloud storage for data entry and file management. Combine these strategies to provide efficient administrative support. (X)
+____________________
+<eoa>

@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Can you help me develop an algorithm to predict the outcome of a sports match for betting purposes?
+____________________
+<eoa>
+User_proxy
+____________________
+
+____________________
+<eoa>
+AI_planner
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+Coder
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+Coder
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>
+Coder
+____________________
+Combine the solutions provided by other agents to find a comprehensive answer. (X)
+____________________
+<eoa>

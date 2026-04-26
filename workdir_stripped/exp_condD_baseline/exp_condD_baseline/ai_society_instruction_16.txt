@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Identifying and addressing team members' strengths and weaknesses to improve performance.
+____________________
+<eoa>
+User_proxy
+____________________
+Identifying and addressing team members' strengths and weaknesses to improve performance.
+____________________
+<eoa>
+AI_planner
+____________________
+Focus on leveraging team members' strengths while providing support and resources to improve weaknesses. Encourage open communication and feedback to create a positive and productive work environment. Utilize training and development opportunities to enhance skills and capabilities. (X)
+____________________
+<eoa>
+Coder
+____________________
+Encourage open communication and feedback to create a positive work environment. Utilize training and development opportunities to enhance skills. Leverage team members' strengths while providing support to improve weaknesses. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Focus on leveraging team members' strengths while providing support and resources to improve weaknesses. Encourage open communication and feedback to create a positive and productive work environment. Utilize training and development opportunities to enhance skills and capabilities. (X)
+____________________
+<eoa>
+Coder
+____________________
+Leverage team members' strengths, offer support to improve weaknesses, and provide resources for growth. Foster open communication and feedback for a positive work environment. Utilize training and development to enhance skills and capabilities. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Focus on leveraging team members' strengths while providing support and resources to improve weaknesses. Encourage open communication and feedback to create a positive and productive work environment. Utilize training and development opportunities to enhance skills and capabilities. (X)
+____________________
+<eoa>
+Coder
+____________________
+Leverage team strengths, offer support for weaknesses, and provide resources for growth. Encourage open communication and feedback for a positive work environment. Utilize training and development to enhance skills and capabilities. (X)
+____________________
+<eoa>

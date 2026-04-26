@@ -5,6 +5,7 @@ CONFIGS=(
     "configs/exp_condB_prefix_only.yaml"
     "configs/exp_condC_icl_only.yaml"
     "configs/exp_condD_baseline.yaml"
+    "configs/exp_condE_traits_only.yaml"
 )
 
 for cfg in "${CONFIGS[@]}"; do

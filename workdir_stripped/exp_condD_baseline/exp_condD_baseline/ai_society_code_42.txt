@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Conducting brand sentiment analysis on social media
+____________________
+<eoa>
+User_proxy
+____________________
+Conducting brand sentiment analysis on social media
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize sentiment analysis tools like Lexalytics or Brandwatch to gather data from social media platforms. Analyze the sentiment of mentions to gauge public perception accurately. Consider sentiment trends over time for a comprehensive understanding of brand sentiment. (X)
+____________________
+<eoa>
+Coder
+____________________
+Consider using sentiment analysis tools such as Lexalytics or Brandwatch to collect data from social media platforms. Analyze sentiment trends over time to gain a thorough understanding of brand sentiment accurately. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize sentiment analysis tools like Lexalytics or Brandwatch to gather data from social media platforms. Analyze the sentiment of mentions to gauge public perception accurately. Consider sentiment trends over time for a comprehensive understanding of brand sentiment. (X)
+____________________
+<eoa>
+Coder
+____________________
+Consider employing sentiment analysis tools like Lexalytics or Brandwatch to collect social media data. Analyze sentiment trends over time for a comprehensive understanding of brand sentiment. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize sentiment analysis tools like Lexalytics or Brandwatch to gather data from social media platforms. Analyze the sentiment of mentions to gauge public perception accurately. Consider sentiment trends over time for a comprehensive understanding of brand sentiment. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilize tools like Lexalytics or Brandwatch for sentiment analysis on social media data. Analyze sentiment trends over time to understand brand perception accurately. (X)
+____________________
+<eoa>

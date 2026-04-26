@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Building tools for gene ontology enrichment analysis
+____________________
+<eoa>
+User_proxy
+____________________
+Building tools for gene ontology enrichment analysis
+____________________
+<eoa>
+AI_planner
+____________________
+Consider using online tools like DAVID or Enrichr for gene ontology enrichment analysis. These tools provide user-friendly interfaces and comprehensive databases for efficient analysis. Utilizing these resources can streamline your research process and enhance the accuracy of your results. (1)
+____________________
+<eoa>
+Coder
+____________________
+Utilize online tools such as DAVID or Enrichr for gene ontology enrichment analysis. These platforms offer user-friendly interfaces and extensive databases, streamlining research and improving result accuracy. Leveraging these resources can enhance the efficiency and effectiveness of your analysis. (1)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize online tools like DAVID or Enrichr for gene ontology enrichment analysis. These platforms offer user-friendly interfaces and extensive databases, streamlining research and improving result accuracy. Leveraging these resources can enhance the efficiency and effectiveness of your analysis. (1)
+____________________
+<eoa>
+Coder
+____________________
+Utilize online tools like DAVID or Enrichr for gene ontology enrichment analysis. These platforms offer user-friendly interfaces and extensive databases, streamlining research and improving result accuracy. Leveraging these resources can enhance the efficiency and effectiveness of your analysis. (1)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize online tools like DAVID or Enrichr for gene ontology enrichment analysis. These platforms offer user-friendly interfaces and extensive databases, streamlining research and improving result accuracy. Leveraging these resources can enhance the efficiency and effectiveness of your analysis. (1)
+____________________
+<eoa>
+Coder
+____________________
+Utilize online tools like DAVID or Enrichr for gene ontology enrichment analysis. These platforms offer user-friendly interfaces and extensive databases, streamlining research and improving result accuracy. Leveraging these resources can enhance the efficiency and effectiveness of your analysis. (1)
+____________________
+<eoa>

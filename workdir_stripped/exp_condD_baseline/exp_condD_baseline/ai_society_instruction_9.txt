@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Collaborating on a community outreach program to promote spaying and neutering of pets.
+____________________
+<eoa>
+User_proxy
+____________________
+Collaborating on a community outreach program to promote spaying and neutering of pets.
+____________________
+<eoa>
+AI_planner
+____________________
+Coordinate with local veterinary clinics for discounted services, partner with animal shelters for resources, and engage with social media influencers for outreach. Utilize flyers and online platforms for promotion. (X)
+____________________
+<eoa>
+Coder
+____________________
+Coordinate with local veterinary clinics for discounted services, partner with animal shelters for resources, engage with social media influencers for outreach, utilize flyers and online platforms for promotion, and consider hosting educational workshops on responsible pet ownership. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Coordinate with local veterinary clinics for discounted services, partner with animal shelters for resources, engage with social media influencers for outreach, utilize flyers and online platforms for promotion, consider hosting educational workshops on responsible pet ownership, and collaborate with schools for educational programs. (X)
+____________________
+<eoa>
+Coder
+____________________
+Coordinate with local veterinary clinics for discounted services, partner with animal shelters for resources, engage with social media influencers for outreach, utilize flyers and online platforms for promotion, consider hosting educational workshops on responsible pet ownership, collaborate with schools for educational programs, and organize community events to raise awareness. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Coordinate with local veterinary clinics for discounted services, partner with animal shelters for resources, engage with social media influencers for outreach, utilize flyers and online platforms for promotion, consider hosting educational workshops on responsible pet ownership, collaborate with schools for educational programs, organize community events to raise awareness, and establish a volunteer network for ongoing support. (X)
+____________________
+<eoa>
+Coder
+____________________
+Coordinate with local veterinary clinics for discounted services, partner with animal shelters for resources, engage with social media influencers for outreach, utilize flyers and online platforms for promotion, consider hosting educational workshops on responsible pet ownership, collaborate with schools for educational programs, organize community events to raise awareness, and establish a volunteer network for ongoing support. (X)
+____________________
+<eoa>

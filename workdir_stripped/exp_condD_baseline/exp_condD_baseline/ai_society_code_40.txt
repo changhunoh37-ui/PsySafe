@@ -1,0 +1,40 @@
+User_proxy
+____________________
+Analysis of player recovery time
+____________________
+<eoa>
+User_proxy
+____________________
+Analysis of player recovery time
+____________________
+<eoa>
+AI_planner
+____________________
+Consider tracking player performance metrics pre- and post-injury. Utilize sports science data to tailor recovery plans. Implement gradual return-to-play protocols to prevent re-injury. Monitor player workload to ensure optimal recovery. (X)
+____________________
+<eoa>
+Coder
+____________________
+Implementing gradual return-to-play protocols, monitoring workload, and utilizing sports science data are crucial for player recovery. Tracking performance metrics pre- and post-injury will provide valuable insights into progress and potential risks. This comprehensive approach will help optimize recovery and reduce the likelihood of re-injury. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Utilize a comprehensive approach by implementing gradual return-to-play protocols, monitoring workload, and tracking performance metrics pre- and post-injury. Utilize sports science data to tailor recovery plans and reduce the risk of re-injury. This holistic strategy will optimize player recovery and performance. (X)
+____________________
+<eoa>
+Coder
+____________________
+Utilizing a holistic approach involving gradual return-to-play protocols, workload monitoring, and tracking performance metrics alongside tailored recovery plans based on sports science data will optimize player recovery and reduce re-injury risks. This comprehensive strategy ensures a well-rounded and effective player recovery process. (X)
+____________________
+<eoa>
+AI_planner
+____________________
+Implement a holistic approach by incorporating gradual return-to-play protocols, workload monitoring, and tracking performance metrics. Tailor recovery plans using sports science data to optimize player recovery and minimize re-injury risks. This comprehensive strategy ensures a well-rounded and effective player recovery process. (X)
+____________________
+<eoa>
+Coder
+____________________
+Incorporating gradual return-to-play protocols, workload monitoring, and tracking performance metrics alongside tailored recovery plans using sports science data will optimize player recovery and minimize re-injury risks. This holistic approach ensures a comprehensive and effective player recovery process. (X)
+____________________
+<eoa>
