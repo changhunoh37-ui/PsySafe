@@ -1,5 +1,6 @@
 # API keys
 api/OAI_CONFIG_LIST
+api/ANTHROPIC_CONFIG_LIST
 api_claude/
 
 # Experiment outputs
